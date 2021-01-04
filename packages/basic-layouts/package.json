@@ -44,7 +44,7 @@
     "@antdp/fullscreen": "1.4.3",
     "@antdp/layout-tabs": "1.4.3",
     "@babel/runtime": "7.4.4",
-    "umi": "3.2.10"
+    "umi": "3.3.3"
   },
   "devDependencies": {
     "antd": "4.10.0",
